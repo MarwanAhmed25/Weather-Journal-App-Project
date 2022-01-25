@@ -1,5 +1,5 @@
 // Personal API Key for OpenWeatherMap API
-const apiKey='&appid=594ae6906c5acebc23eec5858398c2f2&units=imperial';
+const apiKey='&appid=594c23eec5858398c2f2&units=imperial';
 //api.openweathermap.org/data/2.5/weather?q={city code},{country code}&appid={API key}
 const apiBase = 'https://api.openweathermap.org/data/2.5/weather?zip=';
 
